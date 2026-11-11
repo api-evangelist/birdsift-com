@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BirdSift provides a web‑based service that finds local businesses lacking a website or having an outdated one, targeting web agencies and freelancers. Verified via Google Places, it offers up to 10 free credits and tiered pricing plans for deeper prospecting, helping users generate leads efficiently.
+BirdSift provides a web‑design lead generation platform that searches Google Places to find local businesses without a functional website or with outdated sites. Users can specify trade and city, receive searchable results with contact details, and export data. The service offers free credits and paid plans, targeting agencies and freelancers seeking new clients. It includes features like automated lead verification, data enrichment, and integration via an API for programmatic access.
 
-**Areas:** Company · Business · Lead Generation · Software-as-a-Service · Marketing
+**Areas:** LeadGeneration · WebDesign · SaaS · API · Marketing
 
 ## BirdSift on APIs.io
 
 Everything profiled for BirdSift is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/birdsift-com/](https://apis.io/providers/birdsift-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [BirdSift API](https://apis.io/apis/birdsift-com/birdsift-api/) — BirdSift API provides lead generation and search endpoints.
 
 ### Published properties
 
@@ -82,53 +86,62 @@ Authentication, trust centre, and vulnerability disclosure.
 
 - [Birdsift Com Domain Security](https://apis.io/security/birdsift-com/birdsift-com-domain-security/)
 
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Birdsift Com Plans Pricing](https://apis.io/plans/birdsift-com/birdsift-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://birdsift.com/)
+- [Documentation](https://www.birdsift.com/docs/api)
+- [Pricing](https://www.birdsift.com/pricing)
+- [Terms of service](https://www.birdsift.com/terms)
+- [Privacy policy](https://www.birdsift.com/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 3.1** — minimal · rubric 0.26.0 · scored 2026-11-02
+**Kin Score 32.5** — thin · rubric 0.25.0 · scored 2026-11-03
 
 | Facet | Score |
 |---|---|
-| Discoverability | 44.6 |
-| Contract quality | 0.0 |
+| Discoverability | 66.1 |
+| Contract quality | 43.5 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 0.0 |
-| Access clarity | 0.0 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 50.5 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 33.0** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | — |
+| Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
-| Error Semantics | — |
+| Error Semantics | verified |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | — |
-| Protected Resource Metadata | — |
+| Protected Resource Metadata | verified |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
-| Operation Distinctiveness | na |
-| MCP Tool Quality | na |
+| Operation Distinctiveness | distinct |
 
-**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/birdsift-com/](https://apis.io/providers/birdsift-com/).
 
